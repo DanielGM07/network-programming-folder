@@ -1,0 +1,14 @@
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\bin\Debug\net9.0\ClienteUdp.exe
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\bin\Debug\net9.0\ClienteUdp.deps.json
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\bin\Debug\net9.0\ClienteUdp.runtimeconfig.json
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\bin\Debug\net9.0\ClienteUdp.dll
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\bin\Debug\net9.0\ClienteUdp.pdb
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.AssemblyInfoInputs.cache
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.AssemblyInfo.cs
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.csproj.CoreCompileInputs.cache
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.dll
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\refint\ClienteUdp.dll
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.pdb
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ClienteUdp.genruntimeconfig.cache
+C:\ProyectosDGM\Carpeta-prog-redes\clase_udp\ClienteUdp\obj\Debug\net9.0\ref\ClienteUdp.dll
