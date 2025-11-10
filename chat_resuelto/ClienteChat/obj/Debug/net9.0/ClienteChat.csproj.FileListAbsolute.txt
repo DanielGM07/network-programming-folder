@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\bin\Debug\net9.0\ClienteChat.exe
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\bin\Debug\net9.0\ClienteChat.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\bin\Debug\net9.0\ClienteChat.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\bin\Debug\net9.0\ClienteChat.dll
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\bin\Debug\net9.0\ClienteChat.pdb
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.dll
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\refint\ClienteChat.dll
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.pdb
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ClienteChat.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\chat_resuelto\ClienteChat\obj\Debug\net9.0\ref\ClienteChat.dll
