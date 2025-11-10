@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\bin\Debug\net9.0\ClienteAutos.exe
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\bin\Debug\net9.0\ClienteAutos.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\bin\Debug\net9.0\ClienteAutos.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\bin\Debug\net9.0\ClienteAutos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\bin\Debug\net9.0\ClienteAutos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\refint\ClienteAutos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ClienteAutos.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\carrera_autos\ClienteAutos\obj\Debug\net9.0\ref\ClienteAutos.dll

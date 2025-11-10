@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+eBX4iBYEI=",
+  "dgSpecHash": "t0MsRK2LKNc=",
   "success": true,
-  "projectFilePath": "C:\\ProyectosDGM\\Carpeta-prog-redes\\clase_udp\\ServerUdp\\ServerUdp.csproj",
+  "projectFilePath": "C:\\ProyectosVS_DGM\\network-programming-folder\\clase_udp\\ServerUdp\\ServerUdp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

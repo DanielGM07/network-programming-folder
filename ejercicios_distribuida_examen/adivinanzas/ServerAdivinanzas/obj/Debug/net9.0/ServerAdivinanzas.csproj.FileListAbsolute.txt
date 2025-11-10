@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\bin\Debug\net9.0\ServerAdivinanzas.exe
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\bin\Debug\net9.0\ServerAdivinanzas.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\bin\Debug\net9.0\ServerAdivinanzas.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\bin\Debug\net9.0\ServerAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\bin\Debug\net9.0\ServerAdivinanzas.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\refint\ServerAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ServerAdivinanzas.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\adivinanzas\ServerAdivinanzas\obj\Debug\net9.0\ref\ServerAdivinanzas.dll

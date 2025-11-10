@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\bin\Debug\net9.0\ClienteCalculos.exe
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\bin\Debug\net9.0\ClienteCalculos.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\bin\Debug\net9.0\ClienteCalculos.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\bin\Debug\net9.0\ClienteCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\bin\Debug\net9.0\ClienteCalculos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\refint\ClienteCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ClienteCalculos.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos\ClienteCalculos\obj\Debug\net9.0\ref\ClienteCalculos.dll

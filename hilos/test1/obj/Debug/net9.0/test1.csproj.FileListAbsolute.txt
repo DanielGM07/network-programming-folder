@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\bin\Debug\net9.0\test1.exe
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\bin\Debug\net9.0\test1.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\bin\Debug\net9.0\test1.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\bin\Debug\net9.0\test1.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\bin\Debug\net9.0\test1.pdb
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\refint\test1.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.pdb
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\test1.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test1\obj\Debug\net9.0\ref\test1.dll

@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\bin\Debug\net9.0\test2.exe
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\bin\Debug\net9.0\test2.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\bin\Debug\net9.0\test2.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\bin\Debug\net9.0\test2.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\bin\Debug\net9.0\test2.pdb
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\refint\test2.dll
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.pdb
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\test2.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\hilos\test2\obj\Debug\net9.0\ref\test2.dll

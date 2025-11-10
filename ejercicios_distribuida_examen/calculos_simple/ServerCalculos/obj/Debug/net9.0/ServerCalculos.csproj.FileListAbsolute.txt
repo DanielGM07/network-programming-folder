@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\bin\Debug\net9.0\ServerCalculos.exe
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\bin\Debug\net9.0\ServerCalculos.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\bin\Debug\net9.0\ServerCalculos.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\bin\Debug\net9.0\ServerCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\bin\Debug\net9.0\ServerCalculos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\refint\ServerCalculos.dll
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.pdb
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ServerCalculos.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\ejercicios_distribuida_examen\calculos_simple\ServerCalculos\obj\Debug\net9.0\ref\ServerCalculos.dll
