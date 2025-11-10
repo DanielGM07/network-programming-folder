@@ -1,0 +1,2 @@
+1|APPROVED|Oro parece, plata no es. ¿Qué es?|plata|127.0.0.1:59656|2025-11-10 12:35:42
+2|PENDING|Tiene agujas pero no cose. ¿Qué es?|kiwi|127.0.0.1:59656|2025-11-10 12:35:50

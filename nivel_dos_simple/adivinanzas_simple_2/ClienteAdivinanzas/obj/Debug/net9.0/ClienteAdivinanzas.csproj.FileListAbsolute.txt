@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\bin\Debug\net9.0\ClienteAdivinanzas.exe
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\bin\Debug\net9.0\ClienteAdivinanzas.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\bin\Debug\net9.0\ClienteAdivinanzas.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\bin\Debug\net9.0\ClienteAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\bin\Debug\net9.0\ClienteAdivinanzas.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\refint\ClienteAdivinanzas.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ClienteAdivinanzas.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\adivinanzas_simple_2\ClienteAdivinanzas\obj\Debug\net9.0\ref\ClienteAdivinanzas.dll

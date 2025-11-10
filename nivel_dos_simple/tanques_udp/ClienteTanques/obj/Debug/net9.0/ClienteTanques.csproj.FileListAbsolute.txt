@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\bin\Debug\net9.0\ClienteTanques.exe
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\bin\Debug\net9.0\ClienteTanques.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\bin\Debug\net9.0\ClienteTanques.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\bin\Debug\net9.0\ClienteTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\bin\Debug\net9.0\ClienteTanques.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\refint\ClienteTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ClienteTanques.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ClienteTanques\obj\Debug\net9.0\ref\ClienteTanques.dll

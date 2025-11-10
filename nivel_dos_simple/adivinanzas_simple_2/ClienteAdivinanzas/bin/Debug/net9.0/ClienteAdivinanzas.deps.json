@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ClienteAdivinanzas/1.0.0": {
+        "runtime": {
+          "ClienteAdivinanzas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClienteAdivinanzas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

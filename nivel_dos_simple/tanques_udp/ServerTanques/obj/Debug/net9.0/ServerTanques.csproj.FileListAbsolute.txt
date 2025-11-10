@@ -1,0 +1,15 @@
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\bin\Debug\net9.0\ServerTanques.exe
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\bin\Debug\net9.0\ServerTanques.deps.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\bin\Debug\net9.0\ServerTanques.runtimeconfig.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\bin\Debug\net9.0\ServerTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\bin\Debug\net9.0\ServerTanques.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.AssemblyInfoInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.AssemblyInfo.cs
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.csproj.CoreCompileInputs.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.sourcelink.json
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\refint\ServerTanques.dll
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.pdb
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ServerTanques.genruntimeconfig.cache
+C:\ProyectosVS_DGM\network-programming-folder\nivel_dos_simple\tanques_udp\ServerTanques\obj\Debug\net9.0\ref\ServerTanques.dll
